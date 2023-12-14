@@ -30,7 +30,7 @@ To run the code, ensure you have the required dependencies installed, such as Nu
 Feel free to modify parameters, explore different scenarios, or adapt the code for your specific research needs.
 
 ## Acknowledgments
-This code was created as part of a university course project by Atharva Sawant (U20210020) for the BE3001 course. The project aims to provide insights into the stochastic influences on coinfection dynamics of respiratory viruses through modeling and analysis.
+This code was created as part of a university course project by Atharva Sawant (U20210020) for the BE3001 - Stochastic Modeling in Biology course. The project aims to provide insights into the stochastic influences on coinfection dynamics of respiratory viruses through modeling and analysis.
 
 ## License
 This code is provided under the MIT License. Feel free to use and modify the code for academic and research purposes, giving appropriate credit to the original author.
